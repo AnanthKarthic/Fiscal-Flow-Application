@@ -2,7 +2,7 @@
 
 ### Objective
 
-To develop a client-facing personal finance web application that helps users track income and expenses efficiently, while applying full-stack development skills with Python, Flask, HTML/CSS, and JSON-based data management.
+My team and I were tasked with developing a client-facing personal finance web application that helps users track income and expenses efficiently. We learned to apply full-stack development skills using Python, Flask, HTML/CSS, and JSON-based data management.
 
 ### Skills Learned
 
